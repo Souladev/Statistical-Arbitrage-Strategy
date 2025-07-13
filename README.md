@@ -35,6 +35,8 @@ Data Dependency: Relies on accurate price data for both assets, which may be aff
 Add to TradingView: Copy the Pine Script code into TradingView’s Pine Editor and apply it to a chart (e.g., BTCUSD).
 Configure Inputs:
 Set the secondary asset ticker (e.g., ETHUSD).
+
+This strategy combines robust statistical methods with clear visualizations, making it a powerful tool for traders interested in statistical arbitrage across correlated assets.
 Adjust length, threshold, bandwidth, tp_level, and sl_level as needed.
 Interpret Signals:
 Look for green "BUY" arrows for long opportunities and red "SELL" arrows for short opportunities.
