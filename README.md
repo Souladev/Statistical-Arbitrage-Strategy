@@ -36,6 +36,7 @@ Add to TradingView: Copy the Pine Script code into TradingView’s Pine Editor a
 Configure Inputs:
 Set the secondary asset ticker (e.g., ETHUSD).
 
+# Summery 
 This strategy combines robust statistical methods with clear visualizations, making it a powerful tool for traders interested in statistical arbitrage across correlated assets.
 Adjust length, threshold, bandwidth, tp_level, and sl_level as needed.
 Interpret Signals:
